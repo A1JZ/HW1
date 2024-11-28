@@ -1,0 +1,10 @@
+ls
+ls root/dir1
+cd root/dir1
+cd ..
+mv root/dir1/file1.txt root/dir2/file1.txt
+mv root/dir2/file1.txt root/dir1/file1.txt
+whoami
+whoami
+ls
+exit

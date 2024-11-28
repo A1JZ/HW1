@@ -1,0 +1,6 @@
+{
+    "user_name": "testuser",
+    "computer_name": "testpc",
+    "file_system_path": "system.zip",
+    "startup_script_path": "script.txt"
+}
