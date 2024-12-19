@@ -72,4 +72,6 @@ VShell — это программа, которая эмулирует пове
   - `tkinter`
 
 ### Скриншот прохождения тестов
-![Прохождение тестов](tests.png)
+
+![программа](https://github.com/user-attachments/assets/e43f2af9-d81b-418f-afce-5613b727b221)
+![tests](https://github.com/user-attachments/assets/595e1a4b-a56e-4177-a66f-5599bbf73cf0)
